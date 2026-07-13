@@ -96,17 +96,25 @@ TAVILY_API_KEY=your-tavily-api-key
 
 ## Demo / Screenshots
 
+<details>
+<summary>🖼️ Click to view screenshots</summary>
+
 ![RAG Chatbot - Main Interface](assets/Capture.PNG)
 ![RAG Chatbot - Chat View](assets/Capture2.PNG)
 ![RAG Chatbot - Analysis](assets/Capture3.PNG)
 
-### 🎥 Demo Videos
+</details>
 
-<video src="assets/RAG%20Video.mp4" controls width="100%"></video>
+<details>
+<summary>🎥 Click to view demo videos</summary>
+
+<video src="https://github.com/Areshi001/Context_ChatBot/raw/main/assets/RAG%20Video.mp4" controls width="100%"></video>
 *RAG Chatbot in action — overview of core features*
 
-<video src="assets/13.07.2026_14.32.03_REC.mp4" controls width="100%"></video>
+<video src="https://github.com/Areshi001/Context_ChatBot/raw/main/assets/13.07.2026_14.32.03_REC.mp4" controls width="100%"></video>
 *Full session walkthrough*
+
+</details>
 
 ---
 
