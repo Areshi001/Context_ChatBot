@@ -94,6 +94,22 @@ TAVILY_API_KEY=your-tavily-api-key
 - Streamlit used as a real application shell, not just a demo panel
 - Source-aware answer design for better user trust
 
+## Demo / Screenshots
+
+![RAG Chatbot - Main Interface](assets/Capture.PNG)
+![RAG Chatbot - Chat View](assets/Capture2.PNG)
+![RAG Chatbot - Analysis](assets/Capture3.PNG)
+
+### 🎥 Demo Videos
+
+<video src="assets/RAG%20Video.mp4" controls width="100%"></video>
+*RAG Chatbot in action — overview of core features*
+
+<video src="assets/13.07.2026_14.32.03_REC.mp4" controls width="100%"></video>
+*Full session walkthrough*
+
+---
+
 ## Next improvements
 
 - OCR support for scanned PDFs
