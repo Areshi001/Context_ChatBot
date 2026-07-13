@@ -108,11 +108,7 @@ TAVILY_API_KEY=your-tavily-api-key
 <details>
 <summary>🎥 Click to view demo videos</summary>
 
-<video src="https://raw.githubusercontent.com/Areshi001/Context_ChatBot/main/assets/RAG%20Video.mp4" controls width="100%"></video>
-*RAG Chatbot in action — overview of core features*
-
-<video src="https://raw.githubusercontent.com/Areshi001/Context_ChatBot/main/assets/13.07.2026_14.32.03_REC.mp4" controls width="100%"></video>
-*Full session walkthrough*
+▶️ [**Watch Demo on Google Drive**](https://drive.google.com/file/d/1daOanEv3VRgo6CSzwd3oWubX56p_A4Hg/view)
 
 </details>
 
